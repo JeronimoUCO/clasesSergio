@@ -1,0 +1,102 @@
+<mxfile host="65bd71144e">
+    <diagram id="MWOBIWK8se8Zw-B5RcJ-" name="Página-1">
+        <mxGraphModel dx="592" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;" parent="1" source="2" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;" parent="1" source="2" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Bases de la programacion&lt;br&gt;(paradigmas y concepto de algoritmo)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="90" width="280" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Orientada a Objetos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="496" y="285" width="186" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Funcional" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="996" y="305" width="174" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;" parent="1" source="5" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Microservicios" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="320" width="280" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;" parent="1" source="9" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Bases de datos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="694.4" y="740" width="280" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;" parent="1" source="14" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Backend" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="694.4" y="920" width="280" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;" parent="1" source="16" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Frontend" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="694.4" y="1080" width="280" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;" parent="1" source="18" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Ciencia de datos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="694.4" y="1260" width="280" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;" parent="1" source="20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="613.1264943625405" y="1612.4414377951198" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;" parent="1" source="20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1083.343631682446" y="1614.8919796414802" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="694.4" y="1440" width="280" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;" parent="1" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="596.0026501506112" y="1715.3899500974544" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="Estructuras de datos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="386" y="1604" width="280" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;" parent="1" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1099.9680861947477" y="1713.4370399758313" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="Complejidad de algoritmos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="988.4" y="1610" width="280" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Simulacion problema del mejor camino" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="694.4" y="1800" width="280" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;" parent="1" source="29" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Arquitectura" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="740" y="480" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;" parent="1" source="30" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Buenas practicas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="729.2" y="610" width="221.6" height="90" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

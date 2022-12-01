@@ -1,6 +1,8 @@
 activo = True
 
 #Este es un comentario
+def calcular_suma(a,b):
+    return a + b
 def bubbleSort(lista):
     n = len(lista)
 

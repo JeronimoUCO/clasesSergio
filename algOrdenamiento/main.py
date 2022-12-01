@@ -3,6 +3,8 @@ activo = True
 #Este es un comentario
 def calcular_suma(a,b):
     return a + b
+
+#Comentario hecho por JuanEsteban11
 def bubbleSort(lista):
     n = len(lista)
 

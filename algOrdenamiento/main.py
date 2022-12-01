@@ -1,6 +1,6 @@
 activo = True
 
-
+#Este es un comentario
 def bubbleSort(lista):
     n = len(lista)
 
